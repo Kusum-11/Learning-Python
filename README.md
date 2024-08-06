@@ -1,5 +1,5 @@
 Overview
-This project contains a collection of basic Python scripts that demonstrate fundamental programming constructs including if-else statements, lists, strings, tuples, loops, and more. The goal is to provide simple examples that can be used as a learning resource for beginners in Python programming.
+This project contains a collection of basic Python scripts that demonstrate fundamental programming constructs including if-else statements, lists, strings, tuples, loops, OOPs concept and more. The goal is to provide simple examples that can be used as a learning resource for beginners in Python programming.
 
 
 Features
